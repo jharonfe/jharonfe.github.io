@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yang/static/css/main.fc00915f.chunk.css",
-    "main.js": "/yang/static/js/main.a85bf483.chunk.js",
-    "main.js.map": "/yang/static/js/main.a85bf483.chunk.js.map",
+    "main.js": "/yang/static/js/main.e8335bce.chunk.js",
+    "main.js.map": "/yang/static/js/main.e8335bce.chunk.js.map",
     "runtime-main.js": "/yang/static/js/runtime-main.43535973.js",
     "runtime-main.js.map": "/yang/static/js/runtime-main.43535973.js.map",
     "static/js/2.436c152a.chunk.js": "/yang/static/js/2.436c152a.chunk.js",
     "static/js/2.436c152a.chunk.js.map": "/yang/static/js/2.436c152a.chunk.js.map",
     "index.html": "/yang/index.html",
-    "precache-manifest.cdc7e6358204778e39ae27cf5d1754bc.js": "/yang/precache-manifest.cdc7e6358204778e39ae27cf5d1754bc.js",
+    "precache-manifest.75aee5369998d9ced43b871184ff37a5.js": "/yang/precache-manifest.75aee5369998d9ced43b871184ff37a5.js",
     "service-worker.js": "/yang/service-worker.js",
     "static/css/main.fc00915f.chunk.css.map": "/yang/static/css/main.fc00915f.chunk.css.map",
     "static/js/2.436c152a.chunk.js.LICENSE.txt": "/yang/static/js/2.436c152a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.43535973.js",
     "static/js/2.436c152a.chunk.js",
     "static/css/main.fc00915f.chunk.css",
-    "static/js/main.a85bf483.chunk.js"
+    "static/js/main.e8335bce.chunk.js"
   ]
 }
